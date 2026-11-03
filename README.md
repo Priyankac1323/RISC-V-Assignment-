@@ -1,4 +1,4 @@
-# 32-bit Single-Cycle RISC-V Processor using SystemVerilog
+ 32-bit 5-Stage Pipelined RISC-V Processor using SystemVerilog
 
 ## Project Description
 
